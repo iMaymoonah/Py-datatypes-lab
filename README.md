@@ -16,8 +16,8 @@ Consider the following list: ``` people = ["Ahmed", "Nasser", "Mohammed"] ```
 - hint: read about join()
 
 Question 3:
-- Make a dictionary of 5 people, the dictionary should contain information such as: name, phone_number
-- now add 1 more person to the dictionary 
-- now delete the first person from the dictionary
+- Make a list of 3 dictionaries, each dictionary should contain information such as: name, phone_number
+- now add 1 more dictionary to the list 
+- now delete the name from the first dictionary
 - update the phone number of the last person
 - check if a specific "key" exist in the dictionary
