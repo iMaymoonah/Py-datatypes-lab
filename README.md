@@ -20,4 +20,4 @@ Question 3:
 - now add 1 more person to the dictionary 
 - now delete the first person from the dictionary
 - update the phone number of the last person
-- check if a specific "key" exist in the dictionary (hint: use membership operator) 
+- check if a specific "key" exist in the dictionary
