@@ -20,4 +20,4 @@ Question 3:
 - now add 1 more dictionary to the list 
 - now delete the name from the first dictionary
 - update the phone number of the last person
-- check if a specific "key" exist in the dictionary
+- check if a first dictionary has a key called "name" 
