@@ -1,4 +1,6 @@
-# Lab 2
+# Py-datatypes-lab
+
+## Tasks:
 
 Question 1:
 - Make a list with 3 elements
@@ -21,3 +23,8 @@ Question 3:
 - now delete the name from the first dictionary
 - update the phone number of the last person
 - check if a first dictionary has a key called "name" 
+
+
+## Submission:
+
+- After finishing the task upload your Python script file to the forked repo and then create a pull request.
