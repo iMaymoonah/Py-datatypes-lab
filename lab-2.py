@@ -63,13 +63,15 @@ List3.append({'name':'Maymoonah4' , 'phone':'0455555'} )
 
 
 #now delete the name from the first dictionary
-del List3[0]
+#del List3[0]
+del (List3[0]['name'])
 #print(List3)
 
 
 #update the phone number of the last person
-List3[-1]="{'name':'Maymoonah4' , 'phone':'0955555'}"
+List3[-1]['phone']="0955555"
 #print(List3)
 
 #check if a first dictionary has a key called "name"
 print("name" in List3[0])
+
